@@ -56,7 +56,7 @@ def generate_response_with_calculator(model, tokenizer, user_query):
     
     print("--------------------------------------------------")
     print(f"Soru: {user_query}")
-    print("Kumru-2B:\n", end="", flush=True)
+    print("Karga-2B:\n", end="", flush=True)
     
     start_time = time.time()
     
@@ -121,7 +121,7 @@ def generate_response(model, tokenizer, query):
     generated_tokens = output_tokens[model_inputs[0].shape[0]:]
     response = tokenizer.decode(generated_tokens, skip_special_tokens=True)
     
-    print(f"Kumru 🐦:\n{response}")
+    print(f"Karga 🐦:\n{response}")
     return response
 
 def chat_stream(model, tokenizer, user_query):
