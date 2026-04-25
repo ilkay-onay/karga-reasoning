@@ -10,6 +10,9 @@ This repository serves as the public showcase and inference codebase for **Karga
 > ⚠️ **Academic Publication Notice (Teaser Repository)** 
 > *This repository currently contains the inference engine, evaluation scripts, and architectural overview. The core training pipelines (QLoRA/Unsloth), the synthetic dataset, and the novel **"Deterministic Tensor Injection Agent"** algorithm are temporarily withheld pending double-blind peer review for academic publication. The full source code (GPL v3.0) will be released upon publication.*
 
+## 🎥 Hugging Face Space Demo
+[![YıldızSezar Live Demo](https://img.youtube.com/vi/cKtHwEbcZzg/maxresdefault.jpg)](https://youtu.be/cKtHwEbcZzg)
+
 ## 📌 Project Overview
 Large Language Models (LLMs) often struggle with complex logic and mathematics, especially in low-resource languages. Built on top of `vngrs-ai/Kumru-2B`, **Karga-2B-Thinking** bridges this gap by bringing **Chain-of-Thought (CoT)** capabilities to Edge-friendly models. 
 
