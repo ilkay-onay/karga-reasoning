@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/ilkayO/Karga-Thinking-Demo)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ilkay-onay/karga-thinking/blob/main/notebooks/Karga_Quickstart.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ilkay-onay/karga-reasoning/blob/main/notebooks/Karga_Quickstart.ipynb)
 
 This repository serves as the public showcase and inference codebase for **Karga-2B-Thinking**, a 2-Billion parameter Small Language Model (SLM) trained to perform rigorous step-by-step reasoning in Turkish.
 
