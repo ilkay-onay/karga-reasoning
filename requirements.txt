@@ -1,0 +1,17 @@
+torch>=2.1.2
+torchvision
+torchaudio
+tensorboard
+transformers>=4.40.0
+accelerate>=0.29.3
+bitsandbytes>=0.43.1
+#flash-attn>=2.5.8 --no-build-isolation
+psutil
+xformers
+unsloth
+trl
+peft
+datasets
+pyyaml
+gradio
+bitsandbytes
